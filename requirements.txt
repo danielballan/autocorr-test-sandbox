@@ -1,0 +1,7 @@
+area-detector-handlers
+dask
+distributed
+ipympl
+matplotlib
+numpy
+scikit-beam
