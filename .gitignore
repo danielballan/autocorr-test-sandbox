@@ -134,3 +134,5 @@ doc/source/generated/*.rst
 .vscode/tags
 
 dask-worker-space/
+
+data/
